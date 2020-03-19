@@ -1,4 +1,4 @@
 # products-app
-Aplicación web que permite agregar productos, eliminarnos y listarlos. No utiliza ningún framework.
+Aplicación web que permite agregar productos, eliminarnos y listarlos.
 
-Solamente utilizando JS, html y bootstrap 4.
+Utiliza JS, HTML y bootstrap.
